@@ -2,4 +2,5 @@
 
 *29.01.2025*
 
-![anonim](./images/anonim.jfif)
+![anonim](./anonim.jfif)
+
